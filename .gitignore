@@ -27,3 +27,5 @@ venv/
 # pyenv
 .python-version
 
+# any json data
+*.json
