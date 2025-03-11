@@ -1,6 +1,6 @@
 # sheepdog stress test
 
-Sets up an environment for running a jupyer lab notebook for sheepdog submissions.
+Sets up an environment for running a jupyter lab notebook for sheepdog submissions.
 The notebook runs the Gen3 Expansion module.
 
 ## Installation
