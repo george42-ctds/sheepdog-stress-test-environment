@@ -40,7 +40,7 @@ seaborn = "^0.13.2"
 [tool.poetry.extras]
 fhir = ["fhirclient"]
 
-[tool.poetry.dev-dependencies]
+[tool.poetry.group.dev.dependencies]
 pytest = "^6.0.0"
 pytest-cov = "*"
 requests-mock = "*"
